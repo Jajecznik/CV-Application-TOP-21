@@ -1,0 +1,26 @@
+.sectionContainer {
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sectionName {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #1f2937;
+}
+
+.sectionContent {
+  font-size: 16px;
+  color: #374151;
+}
+
+.resultContentItem {
+  border-top: 2px solid #d1d5db; 
+  padding-top: 16px; 
+  margin-top: 16px;
+}
