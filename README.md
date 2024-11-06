@@ -1,5 +1,7 @@
 # CV Application
 
+This application allows users to easily create a simple CV by providing key information such as personal and contact details, job experience, education, skills, and spoken languages. Users can instantly view the result, with the added flexibility to delete any unwanted sections. The app offers an intuitive interface for managing and customizing your CV, making it quick and effortless to build a profile.
+
 ## Assignment
 
 1. Create a new React project.
